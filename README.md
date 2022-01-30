@@ -1,7 +1,7 @@
 # My-Cool-Note-Taker
 
 ## Description
-A backend application for an e-commerce retail site. 
+A note taker application that allows users to create, save and delete notes. 
 
 ## Technologies
 * HTML
@@ -14,8 +14,6 @@ A backend application for an e-commerce retail site.
 [View Application]()
 
 ![Image of mockup]()
-
-![Video demonstratin]()
 
 
 ## Contribution
