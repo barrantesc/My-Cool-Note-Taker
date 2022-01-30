@@ -6,6 +6,7 @@ A note taker application that allows users to create, save and delete notes.
 ## Technologies
 * HTML
 * CSS
+* Bootstrap
 * Javascript
 * Express.js
 * Node.js
