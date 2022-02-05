@@ -11,9 +11,9 @@ A note taker application that allows users to create, save and delete notes.
 * Node.js
 
 ## Website
-[View Application]()
+[View Application](https://barrantesc.github.io/My-Cool-Note-Taker/)
 
-![Image of mockup]()
+![Mockup](demo.png)
 
 
 ## Contribution
